@@ -1,0 +1,86 @@
+**Privacy Policy**
+
+Dolev Franco built the מלך העיר (King of the Streets) app as a Free app. This SERVICE is provided by Dolev Franco at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at מלך העיר (King of the Streets) unless otherwise defined in this Privacy Policy.
+
+**Information Collection and Use**
+
+Most of what the app knows about you stays on your phone. The app does not ask you to create an account, does not ask for an email address or a password, and does not contain advertising, analytics or crash-reporting software.
+
+Information kept on your device only, and never sent to me:
+
+*   Your progress in each city: city coverage, best scores, your last 100 runs (a score and the time it was played), the questions you have already seen, and which city you played last.
+*   A small counter that remembers whether you have been shown the "tap the map to drop a pin" hint.
+*   A cached copy of the city data (street geometry and street-guide text) the app downloaded, so the game opens and plays without a network connection.
+
+This information is removed when you uninstall the app or clear the app's data.
+
+Information sent to the game server:
+
+*   **A player name, only if you choose to sign in to the leaderboard.** Playing does not require it; all three game modes work without ever entering a name. The name is a name you invent, up to 13 characters. It is not protected by a password and it is shown publicly to other players on the leaderboard, so please do not use your full name, your email address, your phone number, or any other detail that identifies you personally.
+*   **Your timed-run score for a city**, submitted together with that name so the leaderboard can rank it. Only the timed run is scored; the other two modes never send anything.
+*   **A city name, only if you use the "request a city" link** to ask for a city the game does not yet cover. Only the city name you type is sent.
+*   **Requests for game data** (the list of cities, and each city's streets and trivia). These carry no information about you beyond what any internet request carries.
+
+**Log Data**
+
+I want to inform you that whenever your app contacts the game server, the server records standard request information, called Log Data. This Log Data may include your device's Internet Protocol ("IP") address, the request that was made, the time and date of the request, and the software version making it. It is used to keep the service running and to diagnose failures, and it is not combined with your player name to build a profile of you.
+
+The app itself contains no analytics or crash-reporting product; when something goes wrong it is written to the device's own console log and stays on your device.
+
+**Permissions**
+
+The app requests one permission: internet access, used to download city data and to read and write the leaderboard. It does not ask for and cannot access your location, your camera, your microphone, your contacts, your photos, or the files on your device. The map you play on is drawn from published municipal street registers, not from where you are.
+
+**Cookies**
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these "cookies" explicitly, and does not contain third-party advertising or analytics libraries that use them.
+
+**Service Providers**
+
+I may employ third-party companies and individuals for the following reasons:
+
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services.
+
+The game server and its database are run on hosting infrastructure operated by third parties on my behalf. They have access to the information stored there in order to provide that hosting, and are obligated not to disclose or use it for any other purpose.
+
+**Security**
+
+Traffic between the app and the game server is sent over an encrypted connection (HTTPS), and leaderboard responses are additionally encrypted with AES-256-GCM. I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Please note that the leaderboard is social rather than competitive: signing in carries no password, so a name is held by whoever claimed it first and scores cannot be guaranteed to be genuine. Treat the board as entertainment, and keep anything you would not want to be public out of your player name.
+
+**Your Choices and Deleting Your Data**
+
+*   You can play every mode of the game without ever entering a name, in which case nothing that identifies you is sent to the server at all.
+*   Uninstalling the app, or clearing its data from your device settings, removes everything the app stored on your phone, including your progress and cached city data.
+*   To have a player name and its leaderboard scores deleted from the server, write to me at the address below with the name, and I will remove it.
+
+**Links to Other Sites**
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children's Privacy**
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2026-09-12
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at dolevfranco2005@gmail.com.
+
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
