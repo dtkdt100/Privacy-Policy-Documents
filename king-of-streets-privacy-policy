@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-Most of what the app knows about you stays on your phone. The app does not ask you to create an account, does not ask for an email address or a password, and does not contain advertising, analytics or crash-reporting software.
+Most of what the app knows about you stays on your phone. The app does not ask you to create an account, does not ask for an email address or a password, and does not contain advertising.
 
 Information kept on your device only, and never sent to me:
 
@@ -27,11 +27,19 @@ Information sent to the game server:
 *   **A city name, only if you use the "request a city" link** to ask for a city the game does not yet cover. Only the city name you type is sent.
 *   **Requests for game data** (the list of cities, and each city's streets and trivia). These carry no information about you beyond what any internet request carries.
 
+Information sent to Google Firebase (usage statistics and crash reports):
+
+The app uses Google Firebase Analytics and Firebase Crashlytics to understand how the game is played and to find and fix crashes. They collect:
+
+*   **Usage statistics**: which screens are opened, and a small set of game events, such as which mode is played, how a run or a conquest went (scores and progress), whether the leaderboard sign-in was accepted or dismissed, and failures to load the game data. The city being played is attached as its id (for example `tel-aviv-yafo`).
+*   **Crash reports**: when the app crashes, a report containing the error, the state of the app at the time, and details of the device and operating system version.
+*   Together with these, Firebase automatically collects standard information such as a randomly generated app-instance identifier, your device model, operating system version, app version, language, and an approximate country or region derived from your IP address.
+
+What is never sent to Firebase: your player name or anything you type (street guesses, city requests), your location, and your device's advertising identifier. The app switches off Firebase's advertising-ID collection and ad-personalization signals, and does not ask to track you across other apps. This information is not linked to your identity and is not used for advertising. Crash reporting is only active in released versions of the app.
+
 **Log Data**
 
 I want to inform you that whenever your app contacts the game server, the server records standard request information, called Log Data. This Log Data may include your device's Internet Protocol ("IP") address, the request that was made, the time and date of the request, and the software version making it. It is used to keep the service running and to diagnose failures, and it is not combined with your player name to build a profile of you.
-
-The app itself contains no analytics or crash-reporting product; when something goes wrong it is written to the device's own console log and stays on your device.
 
 **Permissions**
 
@@ -41,7 +49,7 @@ The app requests one permission: internet access, used to download city data and
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these "cookies" explicitly, and does not contain third-party advertising or analytics libraries that use them.
+This Service does not use these "cookies" explicitly, and does not contain third-party advertising libraries. Firebase Analytics stores its own app-instance identifier on your device, as described above.
 
 **Service Providers**
 
@@ -49,7 +57,10 @@ I may employ third-party companies and individuals for the following reasons:
 
 *   To facilitate our Service;
 *   To provide the Service on our behalf;
-*   To perform Service-related services.
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
+
+The app uses [Google Firebase Analytics](https://firebase.google.com/policies/analytics) and [Firebase Crashlytics](https://firebase.google.com/support/privacy) for usage statistics and crash reports, as described above. They receive your IP address and standard device information, and are covered by Google's own privacy policy.
 
 The game server and its database are run on hosting infrastructure operated by third parties on my behalf. They have access to the information stored there in order to provide that hosting, and are obligated not to disclose or use it for any other purpose.
 
@@ -61,8 +72,8 @@ Please note that the leaderboard is social rather than competitive: signing in c
 
 **Your Choices and Deleting Your Data**
 
-*   You can play every mode of the game without ever entering a name, in which case nothing that identifies you is sent to the server at all.
-*   Uninstalling the app, or clearing its data from your device settings, removes everything the app stored on your phone, including your progress and cached city data.
+*   You can play every mode of the game without ever entering a name, in which case nothing that identifies you is sent to the game server at all.
+*   Uninstalling the app, or clearing its data from your device settings, removes everything the app stored on your phone, including your progress and cached city data, and resets the Firebase app-instance identifier.
 *   To have a player name and its leaderboard scores deleted from the server, write to me at the address below with the name, and I will remove it.
 
 **Links to Other Sites**
@@ -77,7 +88,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2026-09-12
+This policy is effective as of 2026-09-26
 
 **Contact Us**
 

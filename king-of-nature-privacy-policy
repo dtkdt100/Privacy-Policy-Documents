@@ -1,0 +1,103 @@
+**Privacy Policy**
+
+Dolev Franco built the מלך הטבע (King of Nature) app as a Free app. This SERVICE is provided by Dolev Franco at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at מלך הטבע (King of Nature) unless otherwise defined in this Privacy Policy.
+
+**Information Collection and Use**
+
+Most of what the app knows about you stays on your phone. The app does not ask you to create an account, does not ask for an email address or a password, and does not contain advertising.
+
+Information kept on your device only, and never sent to me:
+
+*   Your progress in each region: your best score, your last 10 runs (a score, the time it was played, and for each round the place, how far your pin landed from it and the points it earned), and how many places you have pinned.
+*   Your saved places: which places you saved, when you saved them, and when you marked that you had visited them.
+*   Your leaderboard player name, if you chose one, so you stay signed in.
+*   A cached copy of the game data the app downloaded (the list of regions, the places, their photographs and the stories behind their names), so the game opens quickly and plays with a weak network connection.
+
+This information is removed when you uninstall the app or clear the app's data.
+
+Information sent to the game server:
+
+*   **A player name, only if you choose to sign in to the leaderboard.** Playing does not require it; every mode works without ever entering a name. The name is a name you invent, between 2 and 24 characters. It is not protected by a password and it is shown publicly to other players on the leaderboard, so please do not use your full name, your email address, your phone number, or any other detail that identifies you personally.
+*   **Your run scores**, submitted together with that name so the leaderboard can rank them. When you first sign in, the best score you already have on your device for each board is sent as well, so that runs played before you chose a name count.
+*   **Requests for game data** (the list of regions, and each region's places, photographs and stories). These carry no information about you beyond what any internet request carries.
+
+Information sent to Google Firebase (usage statistics and crash reports):
+
+The app uses Google Firebase Analytics and Firebase Crashlytics to understand how the game is played and to find and fix crashes. They collect:
+
+*   **Usage statistics**: which screens are opened, and a small set of game events, such as a run starting (with the chosen mode and area), a run ending (with its score and how many rounds scored), the leaderboard or a place's page being opened, the result of a sign-in attempt, and failures to load the game data. The region being played is attached as a property.
+*   **Crash reports**: when the app crashes, a report containing the error, the state of the app at the time, and details of the device and operating system version.
+*   Together with these, Firebase automatically collects standard information such as a randomly generated app-instance identifier, your device model, operating system version, app version, language, and an approximate country or region derived from your IP address.
+
+What is never sent to Firebase: your player name or anything you type, your location, and your device's advertising identifier. The app switches off Firebase's advertising-ID collection and ad-personalization signals, and does not ask to track you across other apps. This information is not linked to your identity and is not used for advertising. Crash reporting is only active in released versions of the app.
+
+**Log Data**
+
+I want to inform you that whenever your app contacts the game server, the server records standard request information, called Log Data. This Log Data may include your device's Internet Protocol ("IP") address, the request that was made, the time and date of the request, and the software version making it. It is used to keep the service running, to limit abuse, and to diagnose failures, and it is not combined with your player name to build a profile of you.
+
+**Permissions**
+
+The app requests one permission: internet access, used to download game data, show the map, and read and write the leaderboard. It does not ask for and does not access your location, your camera, your microphone, your contacts, or the files on your device. The app never shows or uses where you are; you place your pin on the map yourself.
+
+If you choose to share a place or a finished run, the app opens your phone's system share sheet with a picture and some text. If you pick "save image" in that sheet, your phone may ask for permission to add the picture to your photo library. The app only adds; it never reads your photos.
+
+**Cookies**
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these "cookies" explicitly, and does not contain third-party advertising libraries. Firebase Analytics stores its own app-instance identifier on your device, as described above.
+
+**Service Providers**
+
+I may employ third-party companies and individuals for the following reasons:
+
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
+
+The app uses the following third-party services, each of which receives your IP address and standard device information when the app contacts it, and each with its own privacy policy:
+
+*   [Google Firebase Analytics](https://firebase.google.com/policies/analytics) and [Firebase Crashlytics](https://firebase.google.com/support/privacy), for usage statistics and crash reports, as described above;
+*   [Google Maps Platform](https://policies.google.com/privacy), which provides the satellite map you play on;
+*   [Wikimedia Commons](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy), from which the photographs of places are loaded.
+
+The game server and its database are run on hosting infrastructure operated by third parties on my behalf. They have access to the information stored there in order to provide that hosting, and are obligated not to disclose or use it for any other purpose.
+
+**Security**
+
+Traffic between the app and the game server is sent over an encrypted connection (HTTPS), and leaderboard responses are additionally encrypted with AES-256-GCM. I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Please note that the leaderboard is social rather than competitive: signing in carries no password, so a name is held by whoever claimed it first and scores cannot be guaranteed to be genuine. Treat the board as entertainment, and keep anything you would not want to be public out of your player name.
+
+**Your Choices and Deleting Your Data**
+
+*   You can play every mode of the game without ever entering a name, in which case nothing that identifies you is sent to the game server at all.
+*   Uninstalling the app, or clearing its data from your device settings, removes everything the app stored on your phone, including your progress, saved places and cached game data, and resets the Firebase app-instance identifier.
+*   To have a player name and its leaderboard scores deleted from the server, write to me at the address below with the name, and I will remove it.
+
+**Links to Other Sites**
+
+This Service contains links to other sites, such as walking-trail pages, videos, the Wikipedia articles the place stories come from, and the pages of the photographs' authors. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children's Privacy**
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2026-09-26
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at dolevfranco2005@gmail.com.
+
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
